@@ -14,7 +14,7 @@ Crypto2048 is a classic 2048 puzzle game with a sleek design, built using Python
 2. Clone this repository: 
    ```sh 
    git clone https://github.com/yourusername/Crypto2048.git
-   cd Crypto2048
+   cd Crypto2048 
    ```
 3. Run the game:
    ```sh
